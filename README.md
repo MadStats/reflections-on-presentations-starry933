@@ -45,11 +45,13 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 
 Title of presentation: H1b
+
 What were aspects of the presentation that you liked: Narrow down research questions to a approachable level through visualization processes
 
 What were aspects of the presentations for which you had concerns or questions: The company type is associated with a given state's political preferences, but it does not really tell us much about H1B applicants - in ohter words, we don't know if it's the company type that makes the difference, regardless of H1B appications (All STEM companies, with or without a friendly foreign employment policy, tend to be located in liberal states) >> I feel like the conclusion comes with some limitations regarding what kind of information we can get from this analysis
 
 Title of presentation: traffic
+
 What were aspects of the presentation that you liked: great combining data from different sources; good to find out some weird things through visualization and adress them (e.g. weight number of car accident by population); presentation very structured and focused; interpret plots very clearly
 
 What were aspects of the presentations for which you had concerns or questions: residual plots might need more elaboration; not control for county?
